@@ -1,5 +1,13 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+It comes preconfigured with:
+
+- tailwindcss
+- recoiljs
+- tslint configured with airbnb
+- prettier
+- husky - hooks pre commit that runs prettier
+
 ## Getting Started
 
 First, run the development server:
